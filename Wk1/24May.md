@@ -1,7 +1,8 @@
 # Introduction to Linguistics (CL1.102)
 ## Summer 2021, IIIT Hyderabad
+## 24 May, Monday (Lecture 1)
 
-Taught by: Prof. Aditi Mukherjee
+Taught by Prof. Aditi Mukherjee
 
 ## Course Topics
 * Semantics
