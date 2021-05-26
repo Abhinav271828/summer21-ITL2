@@ -26,6 +26,7 @@ or one could imply the other:
 
 * Covid killed millions of people all over the world.
 * Millions of people died.
+
 A single sentence could have more than one meaning (ambiguity): "I am positive."  
 
 ## Motivation
