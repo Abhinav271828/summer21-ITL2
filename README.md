@@ -11,3 +11,6 @@
     - Introduction
     - Motivation
     - History
+* Lecture 2 (26 May, Wednesday)
+    - Meaning
+    - The Modern Approach
