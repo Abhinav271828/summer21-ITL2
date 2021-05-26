@@ -1,6 +1,8 @@
 # Introduction to Linguistics 2 (CL1.102)
 ## Summer 2021, IIIT Hyderabad
 
+A collection of notes and resources for the Introduction to Linguistics 2 (ITL2) course at IIIT Hyderabad.
+
 ## Course Topics
 - [ ] Semantics
 - [ ] Pragmatics
