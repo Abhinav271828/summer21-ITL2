@@ -22,5 +22,6 @@ Taught by Prof. Aditi Mukherjee
 2. Connotative meaning: This meaning associates real-world experiences with an expression. Additional attributes (which are not essential/non-critical properties) are included in this meaning. For example, in the case of the word "woman", there are  
     (i) Psychological/social properties: gregarious, caring, maternal  
     (ii) Typical (not invariable) features: cook, homemaker  
-    (iii) Putative (dependent on individual/social/cultural perception) properties: frail, emotional, irrational  
+    (iii) Putative (dependent on individual/social/cultural perception) properties: frail, emotional, irrational 
+    
     Unlike a conceptual meaning, connotations are variable across time and space; they are peripheral/unstable.
