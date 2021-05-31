@@ -19,4 +19,4 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
 * Lecture 3 (28 May, Friday)
     - Types of Meaning (Conceptual, Connotative)
 * Lecture 4 (31 May, Monday)
-    - Types of Meaning (
+    - Types of Meaning (Social, Affective, Collocative)
