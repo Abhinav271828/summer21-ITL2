@@ -20,6 +20,8 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
     - Types of Meaning (Conceptual, Connotative)
 * Lecture 4 (31 May, Monday)
     - Types of Meaning (Social, Affective, Collocative)
+* Lecture 5 (02 June, Wednesday)
+    - Language as a Conceptual System
     
 ## Lecture recordings
 The lectures can be found [here](https://web.microsoftstream.com/user/73883361-dea3-4d91-8989-a18e4e3920d5).
