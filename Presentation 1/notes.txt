@@ -1,0 +1,104 @@
+Semantics and Society (Leech 4)
+
+objective: to consider how semantic competence is harnessed to various social needs
+
+Five Functions of Language
+Conceptual vs Affective Meaning
+"Associative Engineering": Euphemism and Image-Building
+"Conceptual Engineering"
+"Position"
+The Phatic Function
+Language as a Substitute for Action
+Summary
+
+Five Functions of Language
+- informational: everyone assumes cool
+        ~ conceptual
+- expressive   : feelings & attitudes (swear words, exclamations)
+        ~ affective
+- directive    : influence others
+        ~ affective and connotative
+- aesthetic    : for the sake of itself
+        ~ conceptual and affective, but important that all ways are open
+- phatic       : keeping social bonds alive
+
+ • not a unique classification, but interesting because of the correlation with the essential features of a communicative situation:
+        - subject-matter
+        - originator
+        - receiver
+        - channel of communication
+        - message itself
+   respectively.
+
+ • in social roles of language, expressive+directive+phatic are most involved.
+ • expressive and directive often go together
+
+Conceptual vs Affective Meaning
+ • there is an overlap between c. and a. meaning; especially in emotional/evaluative speech
+ • but if these are conveyed by associative meanings, 2 dangers:
+        - miscomm, misund <- connotations and associative meaning vary
+        - associative predomins over conceptual => receiver "taken in"
+ • affective meaning is covert and implicit; we cannot disagree or say "i don't feel that way" if it is not explicitly expressed. we only feel the need to respond but know not how to argue.
+ • words differing in associative meaning are most infamously those for social groups: nationalities ("americans"), religions ("catholic") and most dangerously political ideologies ("anarchism", "communism", "liberal"). dictionary sense may even be almost forgotten. takes over completely with words like "democracy"
+ • (Lang in Thought n Action, Hayakawa): snarl words "conceptual meaning becomes irrel. because user is capitalising on connotations to express hostility" (extreme/uncompromising polit. views, communist, fascist); purr words (democratic, freedom, h. rights, patriotic, equality)
+ • other snarl words are niggers, yanks, reds, pigs, etc
+
+"Associative Engineering": Euphemism and Image-Building
+ • euphemism: "linguistic equivt of disinfectant"
+ • disease, indisposition, concentration camp
+ • almost opp of snarl word: minimise damaging affective associations
+ • but never works out, it just keeps shifting: lavatory, privy, WC, toilet, cloakroom, restroom, comfort station, loo
+ • some labels are not just nice names for nasty things; they pick out the +ve/optimistic aspects of the thing and downplay the bad stuff, like "emergent nations", "apartheid". this is associative engineering
+ • modern advertising's image-building: names, phrasing, choice of words
+ • but even this issue is liable to arguments involving conceptual meaning
+
+"Conceptual Engineering"
+ • propaganda also recruits the favourable associations of the conceptual meaning; it's like the tail wagging the dog
+ • so c. engg becomes a part of a. engg
+ • the distinction between "violence" and "force" is one such
+ • "rebuke" and "reprimand"
+ • possible because the meanings of abstract words are ~indeterminate. always room for disagreement.
+ • "definition by partisan fiat"
+ • "political prisoner", "military action"
+
+"Position"
+ • strategic semantics is more elaborate in the case of arguments for attitudes
+ • propaganda pieces are analogous to proofs, but links are associative not conceptual. this is the "position".
+ • the strength of affective bias = number of ways to prove "we are good" from associative assumptions/postulates.
+ • kind of "euphemistic propaganda"; in a way renames the phenomenon/policy by association to more neutral terms.
+ • the relation between position and argumentation is sometimes overt, sometimes not
+ • example of latter is presuppositions (contained in noun phrases)
+ • advantage: the position is presented as a matter of common knowledge; no one should question
+
+The Phatic Function
+ • function of maintaining cohesion rather than spreading disharmony
+ • phatic communic. is important but dull
+ • importance of keeping a list of inoffensive assertions - weather
+ • small-talk is analogous to mutual grroming among monkeys: very important cooperative behaviour, but used disproportionately often!
+ • this is one explanation ^
+ • another is that phatic communication is an adult substitute for cuddling; the need for reassurance is satisfied by verbal not physical contact
+ • a conversation is a "mutual stroking ritual"; there's a balance.
+ • the phatic function might be equated to the avoidance of unrequited silence.
+ • thus the importance of jokes, witticisms, etc.
+ • political speeches that convey nothing, "full and frank talks on a wide range of subjects of mutual interest"
+ • satisfying the media/public's need for statement without revealing anything
+ • contrasts with more militant propaganda statements.
+ • esp. also ceremonial speeches by HoSs.
+
+Language as a Substitute for Action?
+ • one is as above: phatic ~ stroking/grooming
+ • verbal insult ~ shaking of fist
+ • verbal attempt to change behaviour ~ brute coercion
+ • a defence of the UN's history of dispute: it is a substitute for full-on war.
+ • General Semantics: misuse of lang is a major cause of conflict and danger to future
+ • author: this attitude leads to an over-optimistic faith in the curative powers of semantics
+ • but if inflammatory language were somehow banned, brute force might become first and not last resort.
+ • but overemphasis on affective meaning is a perversion of language; the aspect of meaning that is the basis of communication should not be subservient to emotion and prejudice.
+ • "semantic alertness" is needed.
+
+Summary
+- five functions
+- looked at directive, phatic
+- directive language (prop): affective, associative power of words; conceptual meaning subordinated
+- phatic: not content, but existence of message. conceptual meaning is out again
+- but not so that man is slave and language the tyrant. is a back and forth. train ourselves to responsible and critical scrutiny.
