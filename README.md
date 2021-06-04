@@ -17,9 +17,9 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
     - Meaning
     - The Modern Approach
 * Lecture 3 (28 May, Friday)
-    - Types of Meaning (Conceptual, Connotative)
+    - Types of Meaning (Conceptual, Connotative...
 * Lecture 4 (31 May, Monday)
-    - Types of Meaning (Social, Affective, Collocative)
+    - ...Social, Affective, Collocative)
 * Lecture 5 (02 June, Wednesday)
     - Language as a Conceptual System
 * Lecture 6 (04 June, Friday)
