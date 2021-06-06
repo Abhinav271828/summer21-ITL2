@@ -24,7 +24,7 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
         - ...Social, Affective, Collocative)
     * Lecture 5 (02 June, Wednesday)
         - Language as a Conceptual System
-        * Lecture 6 (04 June, Friday)
+    * Lecture 6 (04 June, Friday)
         - Relativism
             - Arguments against the Sapir-Whorf Hypothesis
         - The Innateness Theory
