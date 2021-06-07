@@ -28,6 +28,9 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
         - Relativism
             - Arguments against the Sapir-Whorf Hypothesis
         - The Innateness Theory
+    * Lecture 7 (07 June, Monday)
+        - Relations
+            - Sense Relations – Words (Homonymy...
     
 ## Lecture recordings
 The lectures can be found [here](https://web.microsoftstream.com/user/73883361-dea3-4d91-8989-a18e4e3920d5).
