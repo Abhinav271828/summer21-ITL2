@@ -28,6 +28,7 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
         - Relativism
             - Arguments against the Sapir-Whorf Hypothesis
         - The Innateness Theory
+* Week 3
     * Lecture 7 (07 June, Monday)
         - Relations
             - Sense Relations – Words (Homonymy...
@@ -35,6 +36,11 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
         - PNCP – Semantics and Society
     * (11 June, Friday)
         - LG – Through the Language Glass: Language, Culture, Thought
+* Week 4
+    * (14 June, Monday)
+        - WL – Linguistic Relativity
+        - WG – Is Semantics Scientific?
+    
     
 ## Lecture recordings
 The lectures can be found [here](https://web.microsoftstream.com/user/73883361-dea3-4d91-8989-a18e4e3920d5).
