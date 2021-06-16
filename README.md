@@ -39,7 +39,10 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
 * Week 4
     * (14 June, Monday)
         - WL – Linguistic Relativity
-        - WG – Is Semantics Scientific?
+        - WaG – Is Semantics Scientific?
+    * (16 June, Wednesday)
+        - WaG – Is Semantics Scientific? (contd.)
+        - P(P)L – Denotation, Sense and Reference
     
     
 ## Lecture recordings
