@@ -43,6 +43,8 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
     * (16 June, Wednesday)
         - WaG – Is Semantics Scientific? (contd.)
         - P(P)L – Denotation, Sense and Reference
+    * Lecture 8 (18 June, Friday)
+        - ...Polysemy, Meaning Inclusion, Near Synonymy) 
     
     
 ## Lecture recordings
