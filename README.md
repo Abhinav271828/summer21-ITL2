@@ -44,12 +44,19 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
         - WaG – Is Semantics Scientific? (contd.)
         - P(P)L – Denotation, Sense and Reference
     * Lecture 8 (18 June, Friday)
-        - ...Polysemy, Meaning Inclusion, Near Synonymy...  
+        - Relations (contd.)
+            - ...Polysemy, Meaning Inclusion, Near Synonymy...  
 * Week 5
     * Lecture 9 (21 June, Monday)
-        - ...Near Synonymy (contd.), Hyponymy, Meronymy, Antonymy, Reverses, Converses)
+        - Relations (contd.)
+            - ...Near Synonymy (contd.), Hyponymy, Meronymy, Antonymy, Reverses, Converses)
     * Lecture 10 (23 June, Wednesday)
-        - Sense Relations – Sentences (Synonymy, Entailment, Contradiction, Presupposition...
+        - Relations (contd.)
+            - Sense Relations – Sentences (Synonymy, Entailment, Contradiction, Presupposition...
+    * Lecture 10 (25 June, Friday)
+        - Relations (contd.)
+            - ...Tautology, Anomaly)
+        - Sentence Structure
     
 ## Lecture recordings
 The lectures can be found [here](https://web.microsoftstream.com/user/73883361-dea3-4d91-8989-a18e4e3920d5).
