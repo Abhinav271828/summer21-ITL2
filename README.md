@@ -4,7 +4,7 @@
 A collection of notes and resources for the Introduction to Linguistics 2 (ITL2) course at IIIT Hyderabad.
 
 ## Course Topics
-- [ ] Semantics
+- [x] Semantics
 - [ ] Pragmatics
 - [ ] Discourse
 
@@ -53,10 +53,13 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
     * Lecture 10 (23 June, Wednesday)
         - Relations (contd.)
             - Sense Relations – Sentences (Synonymy, Entailment, Contradiction, Presupposition...
-    * Lecture 10 (25 June, Friday)
+    * Lecture 11 (25 June, Friday)
         - Relations (contd.)
             - ...Tautology, Anomaly)
         - Sentence Structure
+* Week 6
+    * Lecture 12 (28 June, Monday)
+        - Pragmatics
     
 ## Lecture recordings
 The lectures can be found [here](https://web.microsoftstream.com/user/73883361-dea3-4d91-8989-a18e4e3920d5).
