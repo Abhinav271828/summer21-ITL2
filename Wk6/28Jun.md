@@ -12,4 +12,5 @@ Semantics does not account for the peculiar uses of phrases, like _ātā hū_ wh
 
 A lot of meaning is included in the context, and not only the meanings of the words. For instance, deictic words grammaticalise features of the context of the utterance.
 
+## Deixis
 Deixis can be personal (pronouns), spatial (adverbs of location, verbs like _come_ and _go_) or temporal.
