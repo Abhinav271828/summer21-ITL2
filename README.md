@@ -63,6 +63,8 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
         - Deixis
     * Lecture 13 (30 June, Wednesday)
         - Deixis (contd.)
+    * Lecture 14 (02 July, Friday)
+        - Deixis (contd.)
     
 ## Lecture recordings
 The lectures can be found [here](https://web.microsoftstream.com/user/73883361-dea3-4d91-8989-a18e4e3920d5).
