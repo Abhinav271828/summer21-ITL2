@@ -17,12 +17,14 @@ Much of reference involves reliance on context, together with some calculation. 
 Contronyms are words that can mean completely opposite things in different contexts.
 
 ## Speech Acts
+### Communicative Competence and Speech Acts
 Speech acts constitute the union of linguistic and social behaviour.  
 
 Learning to communicate in a language involves more than acquiring words and their pronunciation. This is the notion of communicative competence, as opposed to linguistic competence.
 
 The functions of language whereby questions are asked or suggestions are made are called speech acts. This term was introduced in _How to Do Things with Words_ (Austin, 1975), as a rebuttal to the prevalent philosophy of logical positivists, according to which the basic sentence type is declarative and their meanings are reducible to truth/falsity values.
 
+### Performatives and Constantives
 Austin pointed out that
 
 * not all sentences are statements, and
