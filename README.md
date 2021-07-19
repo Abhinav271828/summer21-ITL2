@@ -84,6 +84,18 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
 * Week 8
     - (12 July, Monday)
         - Cb – Topographical Deixis and Tani Languages
+    - (14 July, Wednesday)
+        - CFM – Colour and Kinship
+    - (16 July, Friday)
+        - SS – Cooking with Semantics
+* Week 9
+    - Lecture 17 (19 July, Monday)
+        - Speech Acts (contd.)
+            - Sentence Types (contd.)
+            - Categorising Speech Acts
+        - Conversational Implicature
+            - Literal Meaning vs Conveyed Meaning
+            - Advantages of Implicature
         
 ## Lecture recordings
 The lectures can be found [here](https://web.microsoftstream.com/user/73883361-dea3-4d91-8989-a18e4e3920d5).
