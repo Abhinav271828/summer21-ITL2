@@ -6,7 +6,7 @@ A collection of notes and resources for the Introduction to Linguistics 2 (ITL2)
 ## Course Topics
 - [x] Semantics
 - [x] Pragmatics
-- [ ] Discourse
+- [x] Discourse
 
 ## Lecture Contents
 * Week 1
